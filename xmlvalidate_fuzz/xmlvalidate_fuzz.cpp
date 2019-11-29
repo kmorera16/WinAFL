@@ -52,6 +52,10 @@ _bstr_t validateFile(_bstr_t bstrFile)
 			_bstr_t(L"\n");
 	}
 	else
+
+alksjpljipjaswl
+sdsawssw
+
 	{
 		bstrResult = _bstr_t(L"Validation succeeded for ") + bstrFile +
 			_bstr_t(L"\n======================\n") +
@@ -66,7 +70,6 @@ wchar_t* charToWChar(const char* text)
 {
 	size_t size = strlen(text) + 1;
 	wchar_t* wa = new wchar_t[size];
-	//mbstowcs_s(wa, text, size);
 	mbstowcs(wa, text, size);
 	return wa;
 }
@@ -96,6 +99,3 @@ int main(int argc, char** argv)
 	return 0;
 
 }
-
-
-

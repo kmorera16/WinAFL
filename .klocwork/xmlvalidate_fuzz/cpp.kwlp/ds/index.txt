@@ -1,0 +1,6 @@
+C:\Fuzzers\winafl-master\afl-showmap.c;C:\Users\kmorerax\Documents\Visual Studio 2013\Projects\xmlvalidate_fuzz\.klocwork\xmlvalidate_fuzz\cpp.kwlp\ds\2\wxm4yt0i.iq1;2;1575061104547;True;CFBEDCEF225708510040F72B27C2F4AEF3F886E0;False
+C:\Users\kmorerax\Documents\VisualStudio2013\Projects\xmlvalidate_fuzz\xmlvalidate_fuzz\stdafx.h;;3;0;False;6814FCC011B1A58CF91115CC16A9B35296E37E0F;False
+C:\Users\kmorerax\Documents\VisualStudio2013\Projects\xmlvalidate_fuzz\xmlvalidate_fuzz\targetver.h;;4;0;False;03AD3CC7B864B3E1B0A198F35E01381C27A5CFBF;False
+C:\Users\kmorerax\Documents\VisualStudio2013\Projects\xmlvalidate_fuzz\xmlvalidate_fuzz\stdafx.cpp;;5;1575061102069;True;31E093C8FBEA46BDA68D84E0B33F5F78D6A3EE8C;True
+C:\Users\kmorerax\Documents\VisualStudio2013\Projects\xmlvalidate_fuzz\xmlvalidate_fuzz\xmlvalidate_fuzz.cpp;C:\Users\kmorerax\Documents\VisualStudio2013\Projects\xmlvalidate_fuzz\.klocwork\xmlvalidate_fuzz\cpp.kwlp\ds\6\2my4fagt.vax;6;1575061105206;True;EA1DB741DCA97AE5E67DA2EFF75F050258BC21A3;False
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.Cpp.Platform.targets;C:\Users\kmorerax\Documents\VisualStudio2013\Projects\xmlvalidate_fuzz\.klocwork\xmlvalidate_fuzz\cpp.kwlp\ds\7\llhfntzm.cev;7;0;False;B098CBCB6A8B840034BE1D578417F85AD7CA80E9;False
